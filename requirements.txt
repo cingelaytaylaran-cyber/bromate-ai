@@ -1,2 +1,4 @@
-streamlit
-openai
+selenium>=4.15.0
+google‑generative‑ai>=0.8.3
+python‑dotenv>=1.0.0
+webdriver‑manager>=4.6.0
